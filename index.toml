@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "752898b634e0d0c1239b8324e3c29efeca0a8ffa7aee32356ba85246ca6f245e"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "044aa0edbdbbc4a2f78044e556986f62049624f426749176d9e0410cb7cba58b"
+hash = "acbb3bd1fce3b34368dfce36f5fce7fa6a5f63ed676eed7eceef8c1ff3188c19"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
 file = "mods-cdn/pszygoda-1.0.0.jar"
-hash = "7e5a8dcb557490486db39d819948b06589798358de262226d12c11ef2184f4de"
+hash = "01b4f953311197d92dac58e92a71af57731b2dde689ec92bfa823272c810326d"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -40,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/pszygoda.pw.toml"
-hash = "6b7854e64643698e1f49db3270faa45020c092a12dcd4ff58dd3d8435e7b0f76"
+hash = "2eca4a3c4b64bbf76c2ed991e45873ac46c61fb2e6a979b5f26826c636161463"
 metafile = true
 
 [[files]]
