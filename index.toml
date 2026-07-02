@@ -13,10 +13,6 @@ file = "config/defaultoptions/servers.dat"
 hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
-file = "mods-cdn/pszygoda-1.0.0.jar"
-hash = "450dc22e044f8f4dad1ef11194932bdeaadada539419d0e015d1d72c9e046eec"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
 metafile = true
@@ -47,9 +43,8 @@ hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda.pw.toml"
-hash = "c95f4684d180d550a51a09a1d49c4190f6b3a432c6711bb5889580bea50d1fcc"
-metafile = true
+file = "mods/pszygoda-1.0.0.jar"
+hash = "450dc22e044f8f4dad1ef11194932bdeaadada539419d0e015d1d72c9e046eec"
 
 [[files]]
 file = "mods/shine.pw.toml"
