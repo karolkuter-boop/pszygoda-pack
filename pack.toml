@@ -1,0 +1,13 @@
+name = "Pszygoda"
+author = "FFTV"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5977432931dc9e9fa19c5b7e5d6aa9f086396a7aa55d4f980de3a00d9c534a27"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

@@ -1,0 +1,69 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "044aa0edbdbbc4a2f78044e556986f62049624f426749176d9e0410cb7cba58b"
+
+[[files]]
+file = "mods-cdn/pszygoda-1.0.0.jar"
+hash = "7e5a8dcb557490486db39d819948b06589798358de262226d12c11ef2184f4de"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
+metafile = true
+
+[[files]]
+file = "mods/bbs-cml-edition.pw.toml"
+hash = "86bd610d3b02db19493f0499131367e3ebf98759d5d508993aa7088cb304d913"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "6b7d8a2adb16b48dd3adf27f795c816eff5f5421f2b9fcb920e32363bc79b909"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/pszygoda.pw.toml"
+hash = "6b7854e64643698e1f49db3270faa45020c092a12dcd4ff58dd3d8435e7b0f76"
+metafile = true
+
+[[files]]
+file = "mods/shine.pw.toml"
+hash = "417e6b17d229ab317c13eaaeacbdba9819e0d7a0182e307ea1c3541fde52ef8f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "019188864eb8efd6803ba70ceb00d5a195dac16e332883a515cee1e4e15bb39f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-days-alpha.pw.toml"
+hash = "7a16bbd6ad0de6bcd72f769c0015a266fb0c1fcf265a00ec46f92c850bb087db"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-days.pw.toml"
+hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
+metafile = true

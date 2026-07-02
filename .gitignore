@@ -1,0 +1,6 @@
+# packwiz cache
+.packwiz-cache/
+
+# OS
+.DS_Store
+Thumbs.db
