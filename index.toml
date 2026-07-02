@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "752898b634e0d0c1239b8324e3c29efeca0a8ffa7aee32356ba85246ca6f245e"
+hash = "8f648cd06509be1259828b7fc8eb5b22a87fe1ce95978e1b1635de909a496e16"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/pszygoda-1.0.0.jar"
-hash = "450dc22e044f8f4dad1ef11194932bdeaadada539419d0e015d1d72c9e046eec"
+hash = "d65dd50763442755a68f9bb88a351b655089c7964496a728d7e9d7d605330607"
 
 [[files]]
 file = "mods/shine.pw.toml"
