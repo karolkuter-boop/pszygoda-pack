@@ -14,7 +14,7 @@ hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
 file = "mods-cdn/pszygoda-1.0.0.jar"
-hash = "01b4f953311197d92dac58e92a71af57731b2dde689ec92bfa823272c810326d"
+hash = "022901bb282131c559bb2895c978a9be1d2bdbf6d700a2772a0867f1106e102a"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/pszygoda.pw.toml"
-hash = "2eca4a3c4b64bbf76c2ed991e45873ac46c61fb2e6a979b5f26826c636161463"
+hash = "df208ee253bfcbdfe9e4cd4c21a846f7ada3c92b2858d163ee9d74bf7310fd24"
 metafile = true
 
 [[files]]
