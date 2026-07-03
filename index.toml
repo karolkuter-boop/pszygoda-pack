@@ -43,8 +43,8 @@ hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.16.jar"
-hash = "a9ac657dad24ad4524a2f79c403ba854dfa9e920e06ed75852111d88b688d6c5"
+file = "mods/pszygoda-1.0.17.jar"
+hash = "45a41d7cc85c2e0fda00982a38c4a58e22381ccbbf70e680e0bb5018a185c008"
 
 [[files]]
 file = "mods/shine.pw.toml"
