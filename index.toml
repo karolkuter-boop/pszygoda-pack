@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "README.md"
-hash = "1bc248ec1fba983809f94139d6086cd0c12745a7bc18af9507860b1afbf61c7e"
+hash = "d6b539c909900a48915c616c9237e02fb6fc2ba03c446e9cedaec9dab99692b1"
 
 [[files]]
 file = "resourcepacks/golden-days-alpha.pw.toml"
