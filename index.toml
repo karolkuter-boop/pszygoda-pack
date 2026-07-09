@@ -53,8 +53,8 @@ hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.76.jar"
-hash = "af1b5b8ab59e72ce62258cfcaa022cea1af338daac57f2f3c0c669a6b9fbb3c0"
+file = "mods/pszygoda-1.0.77.jar"
+hash = "f9388a6fcdce574f3cb652da273a297f41cff2536c29e4e7ef34e4afea09106e"
 
 [[files]]
 file = "mods/shine.pw.toml"
@@ -88,4 +88,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
-hash = "3b170fc6eb2f825793886cbeaf9834079d6d9a7a02dc09ff8ccadc1433ac1d88"
+hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
