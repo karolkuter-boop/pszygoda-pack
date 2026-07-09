@@ -24,6 +24,17 @@ Pre-launch w instancji:
 
 **Resource packi:** Golden Days Base + Golden Days Alpha (wymuszone przez Default Options → `config/defaultoptions/options.txt`, Alpha nad Base).
 
+**Shaderpack:** **VerityUrbex** (autorski, snop latarki + nocny urbex tonemap) — dostarczany jako
+`shaderpacks/VerityUrbex.zip` (raw plik w `index.toml`, auto-download z packiem). Wymaga **Iris**
+(dołożony: `mods/iris.pw.toml`, Iris 1.8.8 pod Sodium 0.6.x) + Sodium (już w packu).
+
+### Włączenie shadera VerityUrbex w Iris
+
+1. Wystartuj instancję (packwiz dociągnie Iris + `VerityUrbex.zip` do `shaderpacks/`).
+2. W grze: **Opcje → Ustawienia grafiki → Shadery…** (ekran Iris) → zaznacz **VerityUrbex** → **Zastosuj**.
+3. Weź item **latarka** (`pszygoda:latarka`), PPM = włącz — snop pojawia się gdy latarka jest w ręce.
+4. Strojenie na żywo: w tym samym ekranie **Ustawienia shadera** (zakładki „Snop latarki" / „Noc / Tonemap").
+
 Nasz mod `pszygoda` leży **wprost w `mods/pszygoda-1.0.0.jar`** (raw plik w `index.toml`, jak
 `mods/universemc-*.jar`) — pobierany z raw.githubusercontent razem z resztą packa. Pozostałe
 mody/resource packi pobierane są z Modrinth (URL + hash w `mods/*.pw.toml`, `resourcepacks/*.pw.toml`).

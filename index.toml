@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "8f648cd06509be1259828b7fc8eb5b22a87fe1ce95978e1b1635de909a496e16"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "acbb3bd1fce3b34368dfce36f5fce7fa6a5f63ed676eed7eceef8c1ff3188c19"
 
@@ -35,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/flashback.pw.toml"
 hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -72,6 +73,10 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "README.md"
+hash = "1bc248ec1fba983809f94139d6086cd0c12745a7bc18af9507860b1afbf61c7e"
+
+[[files]]
 file = "resourcepacks/golden-days-alpha.pw.toml"
 hash = "7a16bbd6ad0de6bcd72f769c0015a266fb0c1fcf265a00ec46f92c850bb087db"
 metafile = true
@@ -80,3 +85,7 @@ metafile = true
 file = "resourcepacks/golden-days.pw.toml"
 hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
 metafile = true
+
+[[files]]
+file = "shaderpacks/VerityUrbex.zip"
+hash = "b3c05025ba7cbf0e5a4af06bb6dc46183802bad0fd61995d1582db3efb686d2a"
