@@ -10,7 +10,7 @@ hash = "acbb3bd1fce3b34368dfce36f5fce7fa6a5f63ed676eed7eceef8c1ff3188c19"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "bd641f0bf9ac114bf626c30d70d0a7b18059cf97f8861892ea5ea5ab1761a91f"
+hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
 file = "mods/balm.pw.toml"
