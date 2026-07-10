@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/splash_potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 3971
+      },
+      "model": "pszygoda:item/strzykawka"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3972
+      },
+      "model": "pszygoda:item/strzykawka_pusta"
+    }
+  ]
+}
