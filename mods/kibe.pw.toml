@@ -1,0 +1,13 @@
+name = "Kibe"
+filename = "kibe-2.3.1-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/Pb0DTpHV/kibe-2.3.1-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "e13147748c49b574473ff3cdf027d4c56483b40bd035af12e116b1831b26f6c799b620b5bb7f713752418b7923a682d0c61778e545874174649a571346e196b8"
+
+[update]
+[update.modrinth]
+mod-id = "OvlwmUdC"
+version = "Pb0DTpHV"

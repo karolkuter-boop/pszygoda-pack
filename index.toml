@@ -53,6 +53,11 @@ hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+metafile = true
+
+[[files]]
 file = "mods/flashback.pw.toml"
 hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
 metafile = true
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "691f950344974356f7c3a911b99affad66045633027e31e36a72a54d2bd3bc52"
 metafile = true
 
 [[files]]
