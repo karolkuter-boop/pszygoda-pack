@@ -88,8 +88,8 @@ hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.86.jar"
-hash = "dd97b0283e5e49deba42060b489a38e16c783eb01e438f5de9d485a4ad3113f5"
+file = "mods/pszygoda-1.0.87.jar"
+hash = "ab28455d7af4e5be76662d81e3fcca111207669850c12dc986a9365d0a9c63fc"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -255,6 +255,10 @@ hash = "206584e1b28dd9ff256affd5b08c3f51eec904f4e359fde69c2f9b4ae4771c2a"
 [[files]]
 file = "schematics/o3_sphere/usta_r60_open.json"
 hash = "d218b81be0b6c95e8b31820e08d1b1203a7c9b55d9a84a98a0b6ba9d0f5b0fbf"
+
+[[files]]
+file = "scripts/verify-index.sh"
+hash = "c2c435d894eb8f952954cd4cc5bd3ce639fefbe4e80266a12c94dedca26d21d7"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
