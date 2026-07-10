@@ -48,6 +48,11 @@ hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "67b05454e77a30df77f57a6eff49499ff6a18373433be379f90e83f18b7d4290"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
@@ -69,6 +74,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
