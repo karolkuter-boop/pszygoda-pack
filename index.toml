@@ -78,8 +78,8 @@ hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.81.jar"
-hash = "500c890beec1dc530dc4d3ef0bb9d94dea983d6511cb94bf7a98fe0117fda916"
+file = "mods/pszygoda-1.0.82.jar"
+hash = "f3bdcd73240c58ff66f20216f2c59526a18b29f940fbb7f75bc022da387c6313"
 
 [[files]]
 file = "mods/shine.pw.toml"
@@ -120,6 +120,26 @@ metafile = true
 file = "resourcepacks/golden-days.pw.toml"
 hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
 metafile = true
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_1_fundament.schem"
+hash = "72c949e67a288109415cd6adebc195e9f97606eebd74b0a13871d24ffc39f2a2"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_2_polkula.schem"
+hash = "aa6701a919733c49e66d40b662be509bede9e8712c785308b8b3f68bb2466293"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_3_korpus.schem"
+hash = "a4d40ee5f30c15672f185d637d8e0b8f9fb5d7783e0c4d568dd1f35ecb153a35"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_4_kompletna.schem"
+hash = "77e7f934dcdb071350b5550bbdb0d605675175abbb3231c932db6381c1434f52"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_5_okno.schem"
+hash = "afb59c62a02e0b020910d58be01ab209df6b500cbd0098ef5f937bec8731cef8"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
