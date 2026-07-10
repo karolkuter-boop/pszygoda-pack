@@ -1,0 +1,683 @@
+{
+ "format": "pszygoda-block-mouth-v1",
+ "radius": 20,
+ "state": "open",
+ "base_texture": "default.png",
+ "talking_texture": "talking_0.png",
+ "count": 112,
+ "note": "wsp. = przesuniecie wzgledem origin (punkt //paste sfery = dolny srodek); world = origin + (x,y,z). Listy closed/open pokrywaja te same pozycje.",
+ "blocks": [
+  {
+   "x": -7,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 17,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 18,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 19,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 20,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 17,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 18,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 20,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 20,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 13,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 20,
+   "z": 19,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -3,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 26,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 27,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 21,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -3,
+   "y": 22,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -3,
+   "y": 25,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 12,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 22,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -2,
+   "y": 23,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -2,
+   "y": 24,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -1,
+   "y": 12,
+   "z": 18,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -1,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 14,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 12,
+   "z": 18,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 1,
+   "y": 14,
+   "z": 19,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 1,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 12,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 2,
+   "y": 26,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 27,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 22,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 2,
+   "y": 23,
+   "z": 19,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 2,
+   "y": 25,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 12,
+   "z": 18,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 3,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 15,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 22,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 3,
+   "y": 23,
+   "z": 19,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 3,
+   "y": 25,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 13,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 16,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 14,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 17,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 18,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 20,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 15,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 17,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 18,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 19,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 20,
+   "z": 19,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 16,
+   "z": 18,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 17,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 18,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 19,
+   "z": 18,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 20,
+   "z": 18,
+   "block": "minecraft:brown_concrete"
+  }
+ ]
+}

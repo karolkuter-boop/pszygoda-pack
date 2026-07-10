@@ -1,0 +1,5867 @@
+{
+ "format": "pszygoda-block-mouth-v1",
+ "radius": 60,
+ "state": "open",
+ "base_texture": "default.png",
+ "talking_texture": "talking_0.png",
+ "count": 976,
+ "note": "wsp. = przesuniecie wzgledem origin (punkt //paste sfery = dolny srodek); world = origin + (x,y,z). Listy closed/open pokrywaja te same pozycje.",
+ "blocks": [
+  {
+   "x": -24,
+   "y": 49,
+   "z": 53,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -23,
+   "y": 48,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -23,
+   "y": 49,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -23,
+   "y": 54,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -23,
+   "y": 55,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -23,
+   "y": 56,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -23,
+   "y": 57,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -23,
+   "y": 58,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -23,
+   "y": 59,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -23,
+   "y": 60,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -22,
+   "y": 48,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -22,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -22,
+   "y": 52,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 53,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 54,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 55,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 56,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 57,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 58,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 59,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 60,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -22,
+   "y": 61,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -21,
+   "y": 48,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -21,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 50,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 52,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 53,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 54,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 55,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 65,
+   "z": 55,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -21,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -21,
+   "y": 61,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 47,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 50,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 55,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -20,
+   "y": 61,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 46,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 55,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 61,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -19,
+   "y": 62,
+   "z": 56,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -18,
+   "y": 44,
+   "z": 54,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -18,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 46,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -18,
+   "y": 61,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 43,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -17,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -17,
+   "y": 61,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 42,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 61,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -16,
+   "y": 62,
+   "z": 57,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -15,
+   "y": 41,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -15,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 45,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -15,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 40,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -14,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 46,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -14,
+   "y": 61,
+   "z": 58,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -13,
+   "y": 39,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -13,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 46,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -13,
+   "y": 61,
+   "z": 58,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -12,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -12,
+   "y": 39,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 74,
+   "z": 57,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -12,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -12,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": -11,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 39,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 79,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -11,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 76,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 71,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 72,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 73,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 74,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -11,
+   "y": 67,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -11,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -11,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -11,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -10,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -10,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 39,
+   "z": 55,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": -10,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 80,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 76,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 74,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 65,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -10,
+   "y": 66,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -10,
+   "y": 67,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -10,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -10,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -10,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 59,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -10,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 80,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 82,
+   "z": 55,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -9,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 67,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -9,
+   "y": 63,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -9,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -8,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -8,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 80,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -8,
+   "y": 63,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -8,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 74,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 77,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 71,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 72,
+   "z": 58,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -7,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -7,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -7,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -7,
+   "y": 68,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -6,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": -6,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 71,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -6,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -6,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 68,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -6,
+   "y": 69,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": -5,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -5,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -5,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": -4,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -4,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": -4,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -4,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -3,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -3,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 34,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -2,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": -2,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -2,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 34,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": -1,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": -1,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 34,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 0,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 0,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 34,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 1,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 1,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 34,
+   "z": 54,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": 2,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 2,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 2,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 3,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 3,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 45,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 3,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 50,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 4,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 42,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 77,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 78,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 5,
+   "y": 71,
+   "z": 58,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 5,
+   "y": 72,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 73,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 74,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 5,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 5,
+   "y": 68,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 5,
+   "y": 69,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 35,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 80,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 77,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 46,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 74,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 51,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 6,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 68,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 6,
+   "y": 69,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 7,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": 7,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 80,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 43,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 77,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 52,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 7,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 7,
+   "y": 63,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 7,
+   "y": 68,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 81,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": 8,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 80,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 47,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 53,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 8,
+   "y": 63,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 8,
+   "y": 67,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 36,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 9,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 38,
+   "z": 55,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": 9,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 9,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 77,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 78,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 79,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 45,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 74,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 75,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 76,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 48,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 67,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 71,
+   "z": 58,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 9,
+   "y": 54,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 55,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 9,
+   "y": 63,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 64,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 65,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 9,
+   "y": 66,
+   "z": 59,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 39,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 41,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 72,
+   "z": 57,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 49,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 66,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 67,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 68,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 69,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 70,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 71,
+   "z": 58,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 10,
+   "y": 56,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 57,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 10,
+   "y": 58,
+   "z": 59,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 37,
+   "z": 54,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 11,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 39,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 42,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 50,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 11,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 38,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 12,
+   "y": 39,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 46,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 51,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 12,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 39,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 40,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 43,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 45,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 46,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 47,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 52,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 53,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 13,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 14,
+   "y": 40,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 41,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 44,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 45,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 46,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 48,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 54,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 55,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 56,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 14,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 41,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 42,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 45,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 49,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 50,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 57,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 58,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 59,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 15,
+   "y": 60,
+   "z": 58,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 41,
+   "z": 54,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": 16,
+   "y": 42,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 43,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 51,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 52,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 16,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 43,
+   "z": 54,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 44,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 46,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 47,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 48,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 53,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 54,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 17,
+   "y": 61,
+   "z": 57,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 18,
+   "y": 44,
+   "z": 54,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 18,
+   "y": 45,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 46,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 49,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 55,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 56,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 57,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 58,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 59,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 60,
+   "z": 57,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 18,
+   "y": 61,
+   "z": 57,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 19,
+   "y": 46,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 47,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 50,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 51,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 55,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 19,
+   "y": 61,
+   "z": 56,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 20,
+   "y": 47,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 48,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 50,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 52,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 53,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 54,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 55,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 20,
+   "y": 61,
+   "z": 56,
+   "block": "minecraft:orange_wool"
+  },
+  {
+   "x": 21,
+   "y": 48,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 21,
+   "y": 49,
+   "z": 55,
+   "block": "minecraft:black_wool"
+  },
+  {
+   "x": 21,
+   "y": 50,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 52,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 53,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 54,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 55,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 56,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 57,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 58,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 59,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 21,
+   "y": 60,
+   "z": 56,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 51,
+   "z": 55,
+   "block": "minecraft:gold_block"
+  },
+  {
+   "x": 22,
+   "y": 52,
+   "z": 55,
+   "block": "minecraft:brown_concrete"
+  },
+  {
+   "x": 22,
+   "y": 53,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 54,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 55,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 56,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 57,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 58,
+   "z": 55,
+   "block": "minecraft:black_concrete"
+  },
+  {
+   "x": 22,
+   "y": 59,
+   "z": 55,
+   "block": "minecraft:brown_wool"
+  },
+  {
+   "x": 23,
+   "y": 49,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 23,
+   "y": 50,
+   "z": 54,
+   "block": "minecraft:yellow_wool"
+  },
+  {
+   "x": 23,
+   "y": 56,
+   "z": 55,
+   "block": "minecraft:gold_block"
+  }
+ ]
+}
