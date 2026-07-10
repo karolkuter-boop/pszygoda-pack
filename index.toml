@@ -13,6 +13,62 @@ file = "config/defaultoptions/servers.dat"
 hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
+file = "emotes/F.json"
+hash = "935ab98322109d4ab3b5594173543c9c46437218be99b1758f904bc4db117ede"
+
+[[files]]
+file = "emotes/bow1.json"
+hash = "b4fda1c66eb925f5c7a398eec5c5d2356334b651309f4c460bdee435264f9678"
+
+[[files]]
+file = "emotes/dab.json"
+hash = "f30e429e892b16311593d595b7c8fa10cade0561a742f4ba2aa1693472fdc76e"
+
+[[files]]
+file = "emotes/heart.json"
+hash = "0bdc9fa48329088c2f1aea471fce9af5e1e4a572729a438f32faf2f4e4e2792d"
+
+[[files]]
+file = "emotes/hug.json"
+hash = "d1bb293d36d004fc728ed9c1cfefe238e84e77cbe8afa53f387eaae52f6b1531"
+
+[[files]]
+file = "emotes/lay_down5.json"
+hash = "c4d18b8359744e348641ac8a9bd115edd25921d3040c5ff361dcf78acf786840"
+
+[[files]]
+file = "emotes/lean.json"
+hash = "94cd2440ecf27c0d7ec0c97a9cbcbc68a9040b1055230287796487aeb9b42b44"
+
+[[files]]
+file = "emotes/lejat.json"
+hash = "19a3bab49b843d6692e443c9501fd475b2d1c59fe4e3c9d68965dd99810563d1"
+
+[[files]]
+file = "emotes/lookaround.json"
+hash = "77bb9f6ab288eae6c1afe2a5a115482ea25e6e540670e3c7faca5e11d361fe2b"
+
+[[files]]
+file = "emotes/nervous.json"
+hash = "7fd37c4a3120d3b76e0ec711e9c7efeca6ccae2fb33125f06c8fdd2530dbef5c"
+
+[[files]]
+file = "emotes/selfie.json"
+hash = "8854e458a2b2f021b394ca9c64d9c6e6f993a89bd79bc09a33525dd72830ffa0"
+
+[[files]]
+file = "emotes/sit.json"
+hash = "1e5940f16afc3822a00d3a99da1c70c26e2de47eae5110189c20bee3e9ebc4ad"
+
+[[files]]
+file = "emotes/sitting.json"
+hash = "4b31fc18d89b38cb17cb41629cb59471c70c68cf5d6cea544a3598a6c5e6e794"
+
+[[files]]
+file = "emotes/tpose.json"
+hash = "e81cd74ece1639d5d8dd2077c39f2de0a1880ce1d2aafa0fe7b51641aa40ab94"
+
+[[files]]
 file = "media/vista/propaganda.gif"
 hash = "232341d4ee34efb03a369e99a0fbaeec1717e2eaeab675d20f4cec07c68c8dff"
 
@@ -45,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "6b7d8a2adb16b48dd3adf27f795c816eff5f5421f2b9fcb920e32363bc79b909"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
 metafile = true
 
 [[files]]
