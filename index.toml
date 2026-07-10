@@ -13,6 +13,26 @@ file = "config/defaultoptions/servers.dat"
 hash = "ca968bdf48223ae21f406ae810b720fb0cf6f8edf97c74cf925290cd4a722eaa"
 
 [[files]]
+file = "media/vista/propaganda.gif"
+hash = "232341d4ee34efb03a369e99a0fbaeec1717e2eaeab675d20f4cec07c68c8dff"
+
+[[files]]
+file = "media/vista/static.gif"
+hash = "3191e1769d0a88c4c06956f4a94337af8e6fa77d05688fddcb0476f2a5e4444a"
+
+[[files]]
+file = "media/vista/verity-evil.gif"
+hash = "3bed4412b5d460e615a656333c4cd51e4e9e014a7c78a2f6e8bd1f95deb0fe40"
+
+[[files]]
+file = "media/vista/verity-os-red.gif"
+hash = "3510313c3c503e6c6c14322750a1750062cea6cfb13386eecd03a03ec2ad12c1"
+
+[[files]]
+file = "media/vista/verity-os.gif"
+hash = "512b1d29ec3a47e54dd6e54ace43db411ef753110698d834180de0152dd48323"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
 metafile = true
@@ -58,8 +78,8 @@ hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.78.jar"
-hash = "a101bbaa218f2152cb4f4c2e0bb59dc8b2297f232a003f46f4bdb5f2f83041f6"
+file = "mods/pszygoda-1.0.80.jar"
+hash = "2aedb0695379c5c9176b12bd49eee0a9804c2a7d076f02f97c91dfe06adebe03"
 
 [[files]]
 file = "mods/shine.pw.toml"
