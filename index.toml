@@ -6,7 +6,7 @@ hash = "d6b539c909900a48915c616c9237e02fb6fc2ba03c446e9cedaec9dab99692b1"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "acbb3bd1fce3b34368dfce36f5fce7fa6a5f63ed676eed7eceef8c1ff3188c19"
+hash = "4d73e435867810ed174a3456143997602d155ffbd4ee825a18b0d912d8c03286"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -58,6 +58,11 @@ hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -73,6 +78,11 @@ hash = "67b05454e77a30df77f57a6eff49499ff6a18373433be379f90e83f18b7d4290"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "5dc69d7e3b51af646f3506007cc0f2b98f587787959f959069c5211c0e5b6574"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
@@ -80,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/pszygoda-1.0.82.jar"
 hash = "f3bdcd73240c58ff66f20216f2c59526a18b29f940fbb7f75bc022da387c6313"
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "29583ec68be91596c7444b0fcd5609676d4bc0a1d083336fb2c279e3b0e09b3f"
+metafile = true
 
 [[files]]
 file = "mods/shine.pw.toml"
@@ -122,6 +137,14 @@ hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pszygoda-overrides/assets/mutantmonsters/textures/entity/mutant_zombie.png"
+hash = "a731e6558d9411128186e8a89916af977ae90246da715dd5b9fcde056ff4e9a1"
+
+[[files]]
+file = "resourcepacks/pszygoda-overrides/pack.mcmeta"
+hash = "9e5301ede8c158826785f02979af918ff3694f377631b0f6e9e38a90a1655beb"
+
+[[files]]
 file = "schematics/o3_sphere/o3_sfera_1_fundament.schem"
 hash = "72c949e67a288109415cd6adebc195e9f97606eebd74b0a13871d24ffc39f2a2"
 
@@ -140,6 +163,46 @@ hash = "77e7f934dcdb071350b5550bbdb0d605675175abbb3231c932db6381c1434f52"
 [[files]]
 file = "schematics/o3_sphere/o3_sfera_5_okno.schem"
 hash = "afb59c62a02e0b020910d58be01ab209df6b500cbd0098ef5f937bec8731cef8"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r40_1_fundament.schem"
+hash = "f6eb2efba14a00ce94f44b3986dcd41ea873786e72581bb2a0b2b66769ed233a"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r40_2_polkula.schem"
+hash = "73946ee5ecbe93530320ddc1dfb8ea37ede779117fb71e7969b20a70489367bf"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r40_3_korpus.schem"
+hash = "f6c44f8390eccb6dadd58f620cee52e32c7b428808559fcaf72f5d9392c4d78a"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r40_4_kompletna.schem"
+hash = "1534cceee04904f400b4c59801b59d11aab07374231a3d600c47b72d09b67bc5"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r40_5_okno.schem"
+hash = "97257e668f4168b4cb4d371a3f7c3ac6706a8971ae376d0ad9fa685e16e7337b"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_1_fundament.schem"
+hash = "749fff779edb78c100aa4d26c01743fae96a3185d27f396ac4906a1352b41ed6"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_2_polkula.schem"
+hash = "5e317a53dae25297430a4863d26f0904ccdcce0dce6497ccb8d817be7216572f"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_3_korpus.schem"
+hash = "5ea27fe2f2b27e0bba1f33791ac2628eee1495f75635fac89586531876e0af65"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_4_kompletna.schem"
+hash = "4adec1a1ce37e601366699eaba3f98a16184b43b8e00a863fc6780532ee8e772"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_5_okno.schem"
+hash = "5e79d2e65c8fa7679b5f3f6974e10dcf65213d68a1435c46b3e561302a99b734"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
