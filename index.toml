@@ -234,27 +234,27 @@ hash = "18db3d0b16675bf72a5ef17f8548a88f7ac669939ab2a4ef4386a983dcadedbf"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r20_closed.json"
-hash = "ac70bd5ab264f74ebf7c5165dbacf08c4480c363221ecc9fc041fe17fc3dbef4"
+hash = "868700270bd72a57702655c41c464986fd769aa91aa2dfd1e1a5caabec9018e7"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r20_open.json"
-hash = "1c1b14e74e0598499d7c749289915fdd1c30f9b8ed9f72529211561985f83a38"
+hash = "d91cd6b2c0abd1fc6c5d5ec131d33b082c44d509ded7a605033a543edcbbb632"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r40_closed.json"
-hash = "f7a43244b7d223945555df05910fe42599b1a0e532b82305e328358b67192889"
+hash = "d40878fd477ff82bb67862e3158500f172e88b2e27cb97048bd84e79adb95841"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r40_open.json"
-hash = "4b05636b247a43b78addc0352226999ef4d2ac317d7db09c7b144bba8585f279"
+hash = "42ad13dd23bc348910729d3c68effaac00a39966cf3deba5934c405ebd824d8a"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r60_closed.json"
-hash = "69ef342279a139a0f47489b2e356fcd86e582a4a69922a8f8b04cca441791fe8"
+hash = "206584e1b28dd9ff256affd5b08c3f51eec904f4e359fde69c2f9b4ae4771c2a"
 
 [[files]]
 file = "schematics/o3_sphere/usta_r60_open.json"
-hash = "e3478c7b1853fb570317e662c9a74ddc1701159e8b02ce11475d962bb5b4cd48"
+hash = "d218b81be0b6c95e8b31820e08d1b1203a7c9b55d9a84a98a0b6ba9d0f5b0fbf"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"

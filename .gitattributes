@@ -1,10 +1,1 @@
-* text=auto
-*.toml text eol=lf
-*.json text eol=lf
-*.txt text eol=lf
-*.cfg text eol=lf
-*.md text eol=lf
-*.jar binary
-*.zip binary
-*.png binary
-*.schem binary
+* -text
