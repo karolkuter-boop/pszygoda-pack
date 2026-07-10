@@ -205,5 +205,17 @@ file = "schematics/o3_sphere/o3_sfera_r60_5_okno.schem"
 hash = "5e79d2e65c8fa7679b5f3f6974e10dcf65213d68a1435c46b3e561302a99b734"
 
 [[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_mina_crazy_talking_0.schem"
+hash = "9edc347338a382acb789247e8802a01d237d9516fbc331dd7adaddf9d42dc0ef"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_mina_serious_angry.schem"
+hash = "21e67b08b280d340409ebb4081b81f985791460f8e7d723fd3b3108531320308"
+
+[[files]]
+file = "schematics/o3_sphere/o3_sfera_r60_mina_smiling_evil_1.schem"
+hash = "18db3d0b16675bf72a5ef17f8548a88f7ac669939ab2a4ef4386a983dcadedbf"
+
+[[files]]
 file = "shaderpacks/VerityUrbex.zip"
 hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
