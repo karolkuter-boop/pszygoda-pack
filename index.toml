@@ -88,8 +88,8 @@ hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.0.82.jar"
-hash = "f3bdcd73240c58ff66f20216f2c59526a18b29f940fbb7f75bc022da387c6313"
+file = "mods/pszygoda-1.0.83.jar"
+hash = "fd66dc7450a4041eb6038750a660b24a3e131e6f90013e32f950a6a7eef04a61"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -231,6 +231,30 @@ hash = "21e67b08b280d340409ebb4081b81f985791460f8e7d723fd3b3108531320308"
 [[files]]
 file = "schematics/o3_sphere/o3_sfera_r60_mina_smiling_evil_1.schem"
 hash = "18db3d0b16675bf72a5ef17f8548a88f7ac669939ab2a4ef4386a983dcadedbf"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r20_closed.json"
+hash = "ac70bd5ab264f74ebf7c5165dbacf08c4480c363221ecc9fc041fe17fc3dbef4"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r20_open.json"
+hash = "1c1b14e74e0598499d7c749289915fdd1c30f9b8ed9f72529211561985f83a38"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r40_closed.json"
+hash = "f7a43244b7d223945555df05910fe42599b1a0e532b82305e328358b67192889"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r40_open.json"
+hash = "4b05636b247a43b78addc0352226999ef4d2ac317d7db09c7b144bba8585f279"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r60_closed.json"
+hash = "69ef342279a139a0f47489b2e356fcd86e582a4a69922a8f8b04cca441791fe8"
+
+[[files]]
+file = "schematics/o3_sphere/usta_r60_open.json"
+hash = "e3478c7b1853fb570317e662c9a74ddc1701159e8b02ce11475d962bb5b4cd48"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
