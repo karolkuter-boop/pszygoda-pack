@@ -137,8 +137,24 @@ hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pszygoda-overrides/assets/minecraft/models/item/splash_potion.json"
+hash = "31ff25d703c523679c6afaad4fdbb5df1f8f26812d94b0737082a1b46bf57edd"
+
+[[files]]
 file = "resourcepacks/pszygoda-overrides/assets/mutantmonsters/textures/entity/mutant_zombie.png"
 hash = "a731e6558d9411128186e8a89916af977ae90246da715dd5b9fcde056ff4e9a1"
+
+[[files]]
+file = "resourcepacks/pszygoda-overrides/assets/pszygoda/models/item/strzykawka.json"
+hash = "1d0c94b46e95758b4f0599856264782a075d3133c21ff383ecb9e4f962fd9427"
+
+[[files]]
+file = "resourcepacks/pszygoda-overrides/assets/pszygoda/models/item/strzykawka_pusta.json"
+hash = "5206cb4f00cfb8503be537946019359ea011ee3ec3da71b66ae6b41c4e7f3d7c"
+
+[[files]]
+file = "resourcepacks/pszygoda-overrides/assets/pszygoda/textures/item/strzykawka.png"
+hash = "f17e833b7cdbe317aa3d29c2807f42437fb4ffb23deaefc33f459ba7231ddfe7"
 
 [[files]]
 file = "resourcepacks/pszygoda-overrides/pack.mcmeta"
