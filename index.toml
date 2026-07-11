@@ -144,9 +144,8 @@ hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "67b05454e77a30df77f57a6eff49499ff6a18373433be379f90e83f18b7d4290"
-metafile = true
+file = "mods/moonlight-fabric-1.21.1-3.0.22.jar"
+hash = "888833d8f1f55e216b8e435383035243ba0e55f9596350bb0f158bf258050a41"
 
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
