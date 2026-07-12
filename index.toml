@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d6b539c909900a48915c616c9237e02fb6fc2ba03c446e9cedaec9dab99692b1"
+hash = "7ce2a7245e530bdeec286810280814cfe506ae4c132be831bc7cd83ee4d1c743"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+hash = "b6debf937cdddf206367ddefb8113c840fe656e99d0c2279766ae9fbab164d30"
 metafile = true
 
 [[files]]
