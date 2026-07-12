@@ -19,14 +19,14 @@ Pre-launch w instancji:
 ## Zawartość
 
 **Mody (Fabric 1.21.1, loader 0.19.3):**
-- **pszygoda** (nasz mod — Verity) · Fabric API · Sodium 0.6.13 · Flashback · Shine (+ YACL, Mod Menu)
+- **pszygoda** (nasz mod — Verity) · Fabric API · Sodium 0.8.12-beta.1 · Flashback · Shine (+ YACL, Mod Menu)
 - **BBS CML** · Default Options (+ Balm) · **Simple Voice Chat** (TTS Verity)
 
 **Resource packi:** Golden Days Base + Golden Days Alpha (wymuszone przez Default Options → `config/defaultoptions/options.txt`, Alpha nad Base).
 
 **Shaderpack:** **VerityUrbex** (autorski, snop latarki + nocny urbex tonemap) — dostarczany jako
 `shaderpacks/VerityUrbex.zip` (raw plik w `index.toml`, auto-download z packiem). Wymaga **Iris**
-(dołożony: `mods/iris.pw.toml`, Iris 1.8.8 pod Sodium 0.6.x) + Sodium (już w packu).
+(dołożony: `mods/iris.pw.toml`, Iris 1.8.14-beta.1 pod Sodium 0.8.12-beta.1) + Sodium (już w packu).
 
 ### Włączenie shadera VerityUrbex w Iris
 
