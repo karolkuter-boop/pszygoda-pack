@@ -123,6 +123,11 @@ hash = "86bd610d3b02db19493f0499131367e3ebf98759d5d508993aa7088cb304d913"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "45ffd0f1d01dee1c16c71bc4371b8a9bd64c96d30eabda818983afd0f4d62f5e"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "6b7d8a2adb16b48dd3adf27f795c816eff5f5421f2b9fcb920e32363bc79b909"
 metafile = true
