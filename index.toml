@@ -211,11 +211,6 @@ hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "89bae0c4d268a749d98fd52d3a7064f2e1471fc8c82c1eb27e6206f9be90baf0"
-metafile = true
-
-[[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
