@@ -187,8 +187,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.7.1.jar"
-hash = "6d1c5e53a50b67c93303604de9664be40a67cf0186fe061f57da51d05918c92b"
+file = "mods/pszygoda-1.7.2.jar"
+hash = "5d7b572b6f786c56f870732684d0a127bce8bebd8d0621b2418207cf8a4108c9"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
