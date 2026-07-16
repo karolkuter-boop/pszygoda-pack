@@ -2,6 +2,10 @@ name = "Iris Shaders"
 filename = "iris-fabric-1.8.8+mc1.21.1.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Shadery Iris — potwierdzona niekompatybilność z rendererem Vista TV (Wave Gate). Wyłącz do testu ekranów Verity Studio."
+
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
 hash-format = "sha512"
