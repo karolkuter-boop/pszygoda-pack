@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "85c8ad41ec7e5f3296e1d2281c89c9e687638b8980d67f1d7f4c40397dc4e298"
+hash = "9e95e57e1f0901b1c8cbece195d501e499450f6e64da7c31872df8ec2b6218b1"
 metafile = true
 
 [[files]]
@@ -187,8 +187,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.34.jar"
-hash = "341a260e8575b63177a4a3a8966cf58cd48a274b27fee756a5d66a3d8de548e8"
+file = "mods/pszygoda-1.14.35.jar"
+hash = "41028dc92282ebfde97ef11fcaf114c6cd9fb46d5321bb584f3fc40773e82230"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
