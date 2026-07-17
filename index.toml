@@ -113,10 +113,6 @@ file = "media/vista/verity-os.gif"
 hash = "512b1d29ec3a47e54dd6e54ace43db411ef753110698d834180de0152dd48323"
 
 [[files]]
-file = "mods/_retired/pszygoda-1.14.57.jar"
-hash = "c47c3fa27eebdcf9e205a942edffdbd2eb55b19881c89a802d9c3cdb0e796e0d"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
 metafile = true
@@ -191,8 +187,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.58.jar"
-hash = "fa5e1b78d73a13a9e47cd1860f19b5eda0974f2239c7aedfa855da972d6409dd"
+file = "mods/pszygoda-1.14.59.jar"
+hash = "bfed991ccc304acc44c6d463a8a267d1ba923d60833fb82a3f357173960d64c3"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
