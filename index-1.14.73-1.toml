@@ -138,11 +138,6 @@ hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
 metafile = true
 
 [[files]]
-file = "mods/evenmoreinstruments.pw.toml"
-hash = "2fd3cae86fdb6c1978298dd6a9d99756f3a8cdb49614ac942423872bece0ba1e"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
@@ -160,11 +155,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
-metafile = true
-
-[[files]]
-file = "mods/genshin-instruments.pw.toml"
-hash = "c763566bf7d3acc489b51f93e3d63133f107717a040aa5480f972bf70f2ec43d"
 metafile = true
 
 [[files]]
