@@ -113,6 +113,16 @@ file = "media/vista/verity-os.gif"
 hash = "512b1d29ec3a47e54dd6e54ace43db411ef753110698d834180de0152dd48323"
 
 [[files]]
+file = "mods/atmosfera.pw.toml"
+hash = "b3cc0b30fabf095f174bd6731282a806792cc55ca6cfa04142f81339d7564529"
+metafile = true
+
+[[files]]
+file = "mods/audio-engine-tweaks.pw.toml"
+hash = "7a867eee9b0ad4144b8a97b0d701f2c857bf7e765d6fea755d2456eb280d4a85"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
 metafile = true
@@ -125,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "45ffd0f1d01dee1c16c71bc4371b8a9bd64c96d30eabda818983afd0f4d62f5e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "73718738abc1814567021fe1eb9b3fb0bcb0e8670dbb9115272381170cb24bf0"
 metafile = true
 
 [[files]]
