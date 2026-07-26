@@ -366,3 +366,7 @@ hash = "c2c435d894eb8f952954cd4cc5bd3ce639fefbe4e80266a12c94dedca26d21d7"
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
 hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
+
+[[files]]
+file = "shaderpacks/photon-voidlands.zip"
+hash = "f555cd4ca27ad52242b595a35f0137cc6c040ce85af90015112fe5592cc0172f"
