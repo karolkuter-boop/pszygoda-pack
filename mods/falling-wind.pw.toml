@@ -1,0 +1,13 @@
+name = "Falling Wind"
+filename = "fallingwind-fabric-1.0.3+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/noBoACg0/versions/JaBsG0hy/fallingwind-fabric-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "67e6805a0faebfa3899918d5e4bb0e0a33aeb620f7840f196e3bbe57fe3db2d108833e11636fec85d38fbdc2dd40902f6bc0cbcf777c2609a49b3ed90e41e727"
+
+[update]
+[update.modrinth]
+mod-id = "noBoACg0"
+version = "JaBsG0hy"
