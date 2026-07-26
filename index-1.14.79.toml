@@ -236,8 +236,8 @@ hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
-file = "mods/voidstack-0.2.4.jar"
-hash = "df963617c22d6f23450fb22c92f9dfceb9fb1a39f6853c8a4f81e550550c64aa"
+file = "mods/voidstack-0.2.5.jar"
+hash = "907c4b7f8f8ce2fa8fa9ab2aab878329237026aca45163fc7dce87a50415b9d6"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -389,4 +389,4 @@ hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
 
 [[files]]
 file = "shaderpacks/photon-voidlands.zip"
-hash = "80b329986422cc884fca3a1cf1c1dc5aea681ccf2abb5be397b6394048f517ba"
+hash = "106e91c04e32e221bba9410138f7630ee4f39502252bdfa6d39969fc7811bd70"
