@@ -207,8 +207,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.94.jar"
-hash = "3b17fc962ac8cb29d516c3b65e7357c753a0ee0ecfe62098104965a8b507a368"
+file = "mods/pszygoda-1.14.95.jar"
+hash = "b063ce54b9bd7cda1e331cef3454ae2ed6b48506f994a0907cfcac80b1b3d5c8"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -389,4 +389,4 @@ hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
 
 [[files]]
 file = "shaderpacks/photon-voidlands.zip"
-hash = "f555cd4ca27ad52242b595a35f0137cc6c040ce85af90015112fe5592cc0172f"
+hash = "80b329986422cc884fca3a1cf1c1dc5aea681ccf2abb5be397b6394048f517ba"
