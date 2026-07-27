@@ -143,6 +143,11 @@ hash = "14f64df0e72502d7f3a375eb92061c904dc68f8f415e7591a6345ccc12cfaba2"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "73718738abc1814567021fe1eb9b3fb0bcb0e8670dbb9115272381170cb24bf0"
 metafile = true
@@ -150,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "6b7d8a2adb16b48dd3adf27f795c816eff5f5421f2b9fcb920e32363bc79b909"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
 
 [[files]]
@@ -232,8 +242,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.113.jar"
-hash = "7f1e789f57b8bfa528fc10ea0bdddf99aac79fd1eba4042ef5f3c64e7e54c1ab"
+file = "mods/pszygoda-1.14.114.jar"
+hash = "c9300bb04e9c522b702e77f8114dfd1f4e08ce6d72085734f8f95272b9f6f1b7"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
