@@ -138,6 +138,11 @@ hash = "45ffd0f1d01dee1c16c71bc4371b8a9bd64c96d30eabda818983afd0f4d62f5e"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "14f64df0e72502d7f3a375eb92061c904dc68f8f415e7591a6345ccc12cfaba2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "73718738abc1814567021fe1eb9b3fb0bcb0e8670dbb9115272381170cb24bf0"
 metafile = true
@@ -168,6 +173,11 @@ hash = "78a2f32364a5dac59ccc2edfffa801437a228418dd1714720e51cbfdc9165864"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
 file = "mods/flashback.pw.toml"
 hash = "3c5a9ee28529be499d10661f4547086cc86e9ab63b5f73b9b5b25767b8ccd1bd"
 metafile = true
@@ -185,6 +195,16 @@ metafile = true
 [[files]]
 file = "mods/kibe.pw.toml"
 hash = "691f950344974356f7c3a911b99affad66045633027e31e36a72a54d2bd3bc52"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
 
 [[files]]
