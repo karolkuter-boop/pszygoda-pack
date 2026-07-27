@@ -256,8 +256,8 @@ hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
-file = "mods/voidstack-0.5.0.jar"
-hash = "e7617ab4989423956d69b62519a46164a35b54999d5534b1dec92175eb0f1907"
+file = "mods/voidstack-0.5.1.jar"
+hash = "2a611a93805a3ca5692a280bf6675b5774c6097b484a9e3901167292c2d82df6"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
