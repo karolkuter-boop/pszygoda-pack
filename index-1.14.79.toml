@@ -242,6 +242,11 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8083e49b94eb72deca40e87757359cfaceef8d1f6a1a07c82f9e8bc9285eb5f2"
+metafile = true
+
+[[files]]
 file = "mods/pszygoda-1.14.114.jar"
 hash = "c9300bb04e9c522b702e77f8114dfd1f4e08ce6d72085734f8f95272b9f6f1b7"
 
