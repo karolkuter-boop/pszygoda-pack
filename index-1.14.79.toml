@@ -270,16 +270,6 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
-file = "resourcepacks/golden-days-alpha.pw.toml"
-hash = "7a16bbd6ad0de6bcd72f769c0015a266fb0c1fcf265a00ec46f92c850bb087db"
-metafile = true
-
-[[files]]
-file = "resourcepacks/golden-days.pw.toml"
-hash = "4e3064f5180e6eeec586004ea2e3e2124e4c012e1184aeb1d11de573cd655b08"
-metafile = true
-
-[[files]]
 file = "resourcepacks/pszygoda-overrides/assets/minecraft/models/item/splash_potion.json"
 hash = "31ff25d703c523679c6afaad4fdbb5df1f8f26812d94b0737082a1b46bf57edd"
 
