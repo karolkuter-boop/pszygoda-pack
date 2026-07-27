@@ -227,8 +227,8 @@ hash = "3803246d2ee5dc93f6c241e8e3d6d2e28b0d0ba523253fc1111c54215fab49a3"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.100.jar"
-hash = "f48137188fbdd3c22f53891fb27afd58fd2cf867965771258ce09d5dc946c3e5"
+file = "mods/pszygoda-1.14.101.jar"
+hash = "f07b7ca7dc088e4b16f2894ee314b26983147a2323b214890dc4f6ce600aebc4"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -256,8 +256,8 @@ hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
-file = "mods/voidstack-0.3.1.jar"
-hash = "e1ba927c3c7b1936c07cf33269dcc4ec5904dc9746ba487a22250584a302cb52"
+file = "mods/voidstack-0.4.0.jar"
+hash = "196c924b7993f6b025a265e25856d8e03b3374e679bec648a3cc1091ee7f5cbe"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
