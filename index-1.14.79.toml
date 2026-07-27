@@ -203,6 +203,11 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -256,8 +261,8 @@ hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
-file = "mods/voidstack-0.7.1.jar"
-hash = "25f29ba59512d942994832e43fe37779bb8049649091832c846fc9291c2f0266"
+file = "mods/voidstack-0.7.2.jar"
+hash = "24f496d1db7143b07090a09d0e1856e685065f963552e52bb9543c859ec895c1"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
