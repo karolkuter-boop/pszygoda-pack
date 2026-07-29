@@ -1,5 +1,6 @@
 # packwiz cache
 .packwiz-cache/
+release-backups/
 
 # OS
 .DS_Store
