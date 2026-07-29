@@ -420,3 +420,7 @@ hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
 [[files]]
 file = "shaderpacks/photon-voidlands.zip"
 hash = "8194e802204bb58fb9be7c5fc1fea1b2b2d510aa7b857337afa781c5cb90e818"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_pszygodacraft.csrv.gg/dim%voidstack$approved$nalu_descent%v7/mw0,1,14_1.txt"
+hash = "b71cb95801374635d690ed630a3121cb8cec1db90451499685fd7830d23befd6"
