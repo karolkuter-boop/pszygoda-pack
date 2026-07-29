@@ -276,8 +276,8 @@ hash = "df54706863df7642610ddc2e23f8e79d5eba1ad2ba954345faab0a32d181cb33"
 metafile = true
 
 [[files]]
-file = "mods/voidstack-0.10.14.jar"
-hash = "c45e8ad4ac9fc26714680fe9bf9e2a8c595fa824770cd6c651c9314a2c0b8446"
+file = "mods/voidstack-0.10.15.jar"
+hash = "ae115fca970c2476e7f4ce449d611de4d6c810ab7943b49911f3ec631037fbce"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -419,7 +419,7 @@ hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
 
 [[files]]
 file = "shaderpacks/photon-voidlands.zip"
-hash = "182d78b9d19260590882a729185e40daf9710435c11c4e4d9fe09f51de72e321"
+hash = "fe79cf404a4250343b9b0f854b78dd751c7997590930698e80fe8800bc252aac"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_pszygodacraft.csrv.gg/dim%voidstack$approved$nalu_descent%v10/mw0,1,14_1.txt"
