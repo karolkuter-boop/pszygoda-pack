@@ -247,8 +247,8 @@ hash = "8083e49b94eb72deca40e87757359cfaceef8d1f6a1a07c82f9e8bc9285eb5f2"
 metafile = true
 
 [[files]]
-file = "mods/pszygoda-1.14.122.jar"
-hash = "da43def7e3e5893df85a37c83557422b10b3618ce6fdc485c0e114e69de0f78d"
+file = "mods/pszygoda-1.14.123.jar"
+hash = "26244575a8256c11ceab6e89f0779715e9ef6d043c6938a1bf036ee8db1e6e45"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -420,10 +420,6 @@ hash = "b276eaa0eb0e17b99db0d2a72544ce191c7e763c8317801a501888cd191c5fcd"
 [[files]]
 file = "shaderpacks/photon-voidlands.zip"
 hash = "1fbe26350c99b1c1b7afa401122cb58e8d87acb5dd96b67583c46ec908685ccf"
-
-[[files]]
-file = "voidstack-0.10.18.jar.release-backup"
-hash = "68cb43c0e3d50c5fb4b08388884862b0234797541063f5ba00666fabb2922573"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_pszygodacraft.csrv.gg/dim%voidstack$approved%nalu_descent%v11/mw0,1,14_1.txt"
