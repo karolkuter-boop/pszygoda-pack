@@ -208,8 +208,8 @@ hash = "691f950344974356f7c3a911b99affad66045633027e31e36a72a54d2bd3bc52"
 metafile = true
 
 [[files]]
-file = "mods/krawedz-0.3.6.jar"
-hash = "17e0619fe248dcb5d90a9ad9ada6e51f3b354912f998d3215798897152d360e3"
+file = "mods/krawedz-0.3.7.jar"
+hash = "5c8b2f8b276d90788b6caebc3475e7e0704e3d78a19fe1ea370077b3a9eaa151"
 
 [[files]]
 file = "mods/krypton.pw.toml"
