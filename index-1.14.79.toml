@@ -208,8 +208,8 @@ hash = "691f950344974356f7c3a911b99affad66045633027e31e36a72a54d2bd3bc52"
 metafile = true
 
 [[files]]
-file = "mods/krawedz-0.3.0.jar"
-hash = "daf791f58c7053c439baeaccca89f7e78e9e7d41565e89ebc6fa410517fd7b12"
+file = "mods/krawedz-0.3.2.jar"
+hash = "6d5879c430a830f144a1da286ae055ad2f2712bc0a003646b976a520cf59077c"
 
 [[files]]
 file = "mods/krypton.pw.toml"
@@ -419,7 +419,7 @@ hash = "c2c435d894eb8f952954cd4cc5bd3ce639fefbe4e80266a12c94dedca26d21d7"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
-hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+hash = "d8e8a4e28d58a514970f11c8d93deaf83b94a50bf65998fea6b661dff0163909"
 
 [[files]]
 file = "shaderpacks/VerityUrbex.zip"
